@@ -1,7 +1,7 @@
 # Portfolio
 
 - 宮沢　和樹
-- 連絡先 Email [a@a.a](kazuki.dat2147@gmail.com)
+- 連絡先 Email (kazuki.dat2147@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2023年卒業予定
 
 ## 資格
@@ -19,12 +19,13 @@
   - どの程度使えるか
 
 ## 取り組んでいるテーマ
-- 何か最低一つ考えてください
+-  シューティングゲームのアニメーションや得点、キャラのデータ管理方法
+-  弾幕の飛ばし方の処理
 
 ## 作品リスト
 
 ### 作品名1
-[<img src="images/game1.png" alt="作品名1" style="height: 360px">]()
+[<img src="images/sei.png" alt="作品名1" style="height: 360px">]()
 
 [正を積む](https://unityroom.com/games/sei_wotum)
 
@@ -35,17 +36,6 @@
 - 開発環境：Unity
 - 開発期間：一週間
 
-### 作品名2
-[<img src="images/game2.png" alt="作品名2" style="height: 360px">]()
-
-[作品名2]()
-
-作品概要
-
-- 開発環境：
-- 開発期間：
-
-
 
 ## 連絡先
-- E-mail [a@a.a](mailto:a@a.a)
+- E-mail (kazuki.dat2147@gmail.com)
