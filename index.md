@@ -17,9 +17,6 @@
 - C/C++
   - 利用歴1年
   - どの程度使えるか
-- cluster
-  - 利用歴〇年
-  - どの程度使えるか
 
 ## 取り組んでいるテーマ
 - 何か最低一つ考えてください
@@ -29,12 +26,14 @@
 ### 作品名1
 [<img src="images/game1.png" alt="作品名1" style="height: 360px">]()
 
-[作品名1]()
+[正を積む](https://unityroom.com/games/sei_wotum)
 
 作品概要
 
-- 開発環境：
-- 開発期間：
+正を積んでいくゲームです。
+
+- 開発環境：Unity
+- 開発期間：一週間
 
 ### 作品名2
 [<img src="images/game2.png" alt="作品名2" style="height: 360px">]()
