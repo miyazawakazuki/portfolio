@@ -12,13 +12,13 @@
 ## スキル
 - C#
   - 利用歴1年
-  - どの程度使えるか
+  - 簡単なゲームを作れる
 - Unity
   - 利用歴1年
-  - どの程度使えるか
+  - 個人でゲームを作成
 - C/C++
   - 利用歴1年
-  - どの程度使えるか
+  - 簡単なゲームを作れる
 
 ## 取り組んでいるテーマ
 -  シューティングゲームの作成
@@ -28,8 +28,8 @@
 
 ## 作品リスト
 
-### 作品名1
-[<img src="images/sei.png" alt="作品名1" style="height: 360px">]()
+### 正を積む
+[<img src="images/sei.png" alt="正を積む" style="height: 360px">]()
 
 [正を積む](https://unityroom.com/games/sei_wotum)
 
@@ -39,6 +39,19 @@
 
 - 開発環境：Unity
 - 開発期間：1日
+
+### Yoketoru
+
+[<img src="images/yoketoru.png" alt="よけとる" style="height: 360px">]()
+
+[Yoketoru](https://unityroom.com/games/yoketoru2021)
+
+作品概要
+
+アイテムを取ってクリアするゲーム
+
+- 開発環境：Unity
+- 開発期間：1か月
 
 
 ## 連絡先
