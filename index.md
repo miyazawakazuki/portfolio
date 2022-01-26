@@ -53,6 +53,11 @@
 - 開発環境：Unity
 - 開発期間：1か月
 
+### シューティングゲーム
+
+作品概要
+
+[シューティングゲーム](https://docs.google.com/document/d/1qhr8iOfl6tSI6FIhcvRCisdzLNncjiam0lWQ6EZ8sAM/edit?usp=sharing)
 
 ## 連絡先
 - E-mail (kazuki.dat2147@gmail.com)
